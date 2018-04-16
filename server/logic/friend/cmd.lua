@@ -1,4 +1,3 @@
-
 local skynet = require "skynet"
 local queue = require "skynet.queue"
 local notice = require("notice_utils")
