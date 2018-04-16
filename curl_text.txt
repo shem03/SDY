@@ -1,0 +1,1 @@
+ curl -H "Content-Type: application/json" -X POST  --data '{"room_id":"3594506767926272","msg_id":"get_banker_point_list"}' http://127.0.0.1:8781/chaotoo

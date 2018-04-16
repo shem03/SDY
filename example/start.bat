@@ -1,0 +1,1 @@
+start "" "./lua.exe" "./client.lua"
